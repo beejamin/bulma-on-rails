@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "bulma"
   spec.version       = Bulma::VERSION
   spec.authors       = ["RAHUL LAKHANEY"]
-  spec.email         = ["rahul.lakhaney@gmail.com"]
+  spec.email         = ["rahul@codebrew.io"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{A ruby gem for bulma Modern CSS framework based on Flexbox}
+  spec.description   = %q{A ruby gem for bulma Modern CSS framework based on Flexbox}
+  spec.homepage      = "https://github.com/rahullakhaney/bulma-on-rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
