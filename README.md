@@ -1,4 +1,4 @@
-# Sweetalert
+# Bulma CSS Framework
 
 A ruby gem for bulma [Modern CSS framework based on Flexbox](https://github.com/jgthms/bulma)
 
